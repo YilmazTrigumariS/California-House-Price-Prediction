@@ -20,7 +20,7 @@ The real estate market in California is highly dynamic, with prices influenced b
     ├── readme.md                            <- The top-level README for developers using this project
     |
     ├── data
-    │   ├── california_housing.csv                         <- The original data
+    │   ├── data_california_housing.csv                         <- The original data
     │
     └── notebooks   
         └── California_House_Price_Prediction.ipynb     <- California House Price Prediction Notebook
