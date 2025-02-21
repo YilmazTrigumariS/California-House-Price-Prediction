@@ -1,4 +1,4 @@
-# California-House-Price-Prediction
+# California House Price Prediction 🏡
 
 Analysis by: Yilmaz Trigumari Syah Putra
 
