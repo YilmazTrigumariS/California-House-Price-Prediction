@@ -23,7 +23,10 @@ The real estate market in California is highly dynamic, with prices influenced b
     │   ├── data_california_housing.csv                         <- The original data
     │
     └── notebooks   
-        └── California_House_Price_Prediction.ipynb     <- California House Price Prediction Notebook
+    |    └── California_House_Price_Prediction.ipynb     <- California House Price Prediction Notebook
+    |
+    └── notebooks   
+        └── app.py; requirement.txt; california_housing final model     <- Streamlit files
 
 ## Results
 The best-performing model for predicting California house prices is CatBoost, with the following metrics:
