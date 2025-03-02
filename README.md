@@ -37,3 +37,5 @@ Training Time: ~1,522 sec
 
 ## Contribution
 Contributions are welcome! Feel free to suggest improvements, report issues, or submit pull requests on GitHub
+
+Streamlit Link: https://california-house-price-prediction-yilmaz.streamlit.app/
